@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/tan86/Projects/Github/SortVis/build",
+  "command": "/usr/bin/c++  -I/home/tan86/Projects/Github/SortVis/includes -isystem /usr/include/SDL2  -Wall -Wextra -Wpedantic -fexceptions -std=gnu++20 -o CMakeFiles/SV.dir/main.cc.o -c /home/tan86/Projects/Github/SortVis/main.cc",
+  "file": "/home/tan86/Projects/Github/SortVis/main.cc"
+},
+{
+  "directory": "/home/tan86/Projects/Github/SortVis/build",
+  "command": "/usr/bin/c++  -I/home/tan86/Projects/Github/SortVis/includes -isystem /usr/include/SDL2  -Wall -Wextra -Wpedantic -fexceptions -std=gnu++20 -o CMakeFiles/SV.dir/src/sortvis.cc.o -c /home/tan86/Projects/Github/SortVis/src/sortvis.cc",
+  "file": "/home/tan86/Projects/Github/SortVis/src/sortvis.cc"
+}
+]

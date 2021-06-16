@@ -1,6 +1,7 @@
-#include <SDL2/SDL.h>
+#include "sortvis.hh"
 
 int main(int argc, char* argv[]) {
-  SDL_Init(SDL_INIT_VIDEO);
+  SortVis sv;
+  sv.mainloop();
   return 0;
 }
